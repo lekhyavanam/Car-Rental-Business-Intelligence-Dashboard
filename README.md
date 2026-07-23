@@ -1,4 +1,4 @@
-# Car-Rental-Business-Intelligence-Dashboard
+# Car Rental Business Intelligence Dashboard
 # Overview
 
 This project is an interactive Power BI dashboard developed to analyze the operational and financial performance of a car rental company. Using transactional rental data, the dashboard provides insights into revenue trends, customer demographics, vehicle utilization, and geographic rental activity to support data-driven business decisions.
