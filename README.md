@@ -7,7 +7,7 @@ The project demonstrates the use of data modeling, DAX calculations, Power Query
 
 # Dashboard Preview
 
-(Insert 2–4 screenshots of your report pages here.)
+
 
 # Business Problem
 
