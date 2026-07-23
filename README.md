@@ -8,6 +8,7 @@ The project demonstrates the use of data modeling, DAX calculations, Power Query
 # Dashboard Preview
 
 [Click here to view my dashboard](CarRentalDashboard.pdf)
+
 [Click here to view my star schema](CarRentalStarSchema.png)
 
 # Business Problem
